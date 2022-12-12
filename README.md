@@ -35,4 +35,4 @@ Se você desejar verificar se o seu projeto está correto, ou seja, os testes es
 
 ## O que devo entregar no Moodle?
 
-Envie o apenas a URL do seu repositório na tarefa do Moodle.
+Envie o apenas a URL do seu repositório na tarefa do Moodle. 
